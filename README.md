@@ -246,8 +246,7 @@ npm start
 
 ## Auteurs
 
-- **AZZAOUI Alae** — EMSI Rabat, 4IASDR6
-- **BERRHOUT Saad** — EMSI Rabat, 4IASDR6
+- **AZZAOUI Alae** — EMSI Rabat
 
 ## Encadrant
 
